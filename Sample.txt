@@ -1,1 +1,2 @@
 Hello GIthub
+Welcome to Github and commands
